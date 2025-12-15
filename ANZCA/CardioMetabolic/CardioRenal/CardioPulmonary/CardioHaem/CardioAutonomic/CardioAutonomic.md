@@ -1,0 +1,2 @@
+%% Begin Waypoint %%
+- **[[CSV/ANZCA/CardioMetabolic/CardioRenal/CardioPulmonary/CardioHaem/CardioAutonomic/6_AutonomicNervousSystem/6_AutonomicNervousSystem]]Pulmonary/CardioHaem/CardioAutonomic/6_AutonomicNervousSystem/6_AutonomicNervousSystem]]Pulmonary/CardioHaem/CardioAutonomic/6_AutonomicNervousSystem/6_AutonomicNervousSystem]]NZCA/CardioPulmonary/CardioHaem/CardioAutonomic/7_CardiovascularSystem/7_CardiovascularSystem]]

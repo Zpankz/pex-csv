@@ -1,0 +1,2 @@
+%% Begin Waypoint %%
+- **[[CSV/ANZCA/CardioMetabolic/EndoMetabolic/GastroHepatoEndoMetabolic/14_Liver/14_Liver]]smAndNu[[CSV/ANZCA/CardioMetabolic/EndoMetabolic/GastroHepatoEndoMetabolic/15_Gastrointestinal/15_Gastrointestinal]]Metabol[[CSV/ANZCA/CardioMetabolic/EndoMetabolic/GastroHepatoEndoMetabolic/16_EndocrineMetabolismAndNutrition/16_EndocrineMetabolismAndNutrition]]

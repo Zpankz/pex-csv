@@ -1,0 +1,4 @@
+%% Begin Waypoint %%
+- **[[CSV/ANZCA/CardioMetabolic/CardioRenal/CardioPulmonary/NeuroResp/NeuroMuscular/4_GeneralAnaestheticAgentsAndSedatives/4_GeneralAnaestheticAgentsAndSedatives]][CSV/[](CSV/ANZCA/CardioMetabolic/CardioRenal/CardioPulmonary/NeuroResp/NeuroMuscular/11_NervousSystem/11_NervousSystem.md)eralAnaestheticAgentsAndSedatives]]int %[](CSV/ANZCA/CardioRenal/CardioPulmonary/NeuroResp/NeuroMuscular/11_NervousSystem/11_NervousSystem.md)Sedatives/4_GeneralAnaestheticAgentsAndSedatives]]**
+
+%% [[CSV/ANZCA/CardioPulmonary/NeuroResp/NeuroMuscular/11_NervousSystem/11_NervousSystem]]uscular[[CSV/ANZCA/CardioPulmonary/NeuroResp/NeuroMuscular/12_Pain/12_Pain]]
