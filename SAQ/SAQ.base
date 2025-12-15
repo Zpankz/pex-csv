@@ -1,0 +1,41 @@
+properties:
+  note.title:
+    displayName: content
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - entityType == "SAQ"
+    order:
+      - file.name
+      - entityType
+      - college
+      - year
+      - sitting
+      - question
+      - title
+      - passRate
+      - EC_extraCredit
+      - EC_expectedDomains
+      - EC_errorsCommon
+      - learningOutcomes
+      - lo
+      - resources
+      - exam
+      - file.links
+      - file.path
+    sort:
+      - property: EC_errorsCommon
+        direction: ASC
+      - property: entityType
+        direction: ASC
+    summaries:
+      passRate: Average
+    columnSize:
+      note.entityType: 53
+      note.college: 59
+      note.sitting: 37
+      note.question: 10
+      note.title: 710
+      note.passRate: 47
